@@ -1,0 +1,16 @@
+{
+  "name": "jsonwebtoken-invalid-alg-repro",
+  "version": "0.0.1",
+  "description": "Reproduce a misleading error in jsonwebtoken package",
+  "main": "index.js",
+  "repository": "https://github.com/Drew-Kimberly/jsonwebtoken-invalid-alg-repro",
+  "author": "Drew Kimberly",
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "jsonwebtoken": "9.0.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
